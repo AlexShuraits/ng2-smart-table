@@ -2,7 +2,9 @@
   "name": "ng2-smart-table",
   "version": "1.1.0",
   "description": "Angular Smart Table",
-  "main": "./src/ng2-smart-table/index.ts",
+  "main": "./dist/ng2-smart-table/index.js",
+  "module": "./dist/ng2-smart-table/index.js",
+  "typings": "./dist/ng2-smart-table/index.d.ts",
   "author": "akveo",
   "license": "MIT",
   "scripts": {
